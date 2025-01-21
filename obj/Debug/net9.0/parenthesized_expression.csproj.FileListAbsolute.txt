@@ -1,0 +1,15 @@
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/bin/Debug/net9.0/parenthesized_expression
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/bin/Debug/net9.0/parenthesized_expression.deps.json
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/bin/Debug/net9.0/parenthesized_expression.runtimeconfig.json
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/bin/Debug/net9.0/parenthesized_expression.dll
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/bin/Debug/net9.0/parenthesized_expression.pdb
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/parenthesized_expression.GeneratedMSBuildEditorConfig.editorconfig
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/parenthesized_expression.AssemblyInfoInputs.cache
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/parenthesized_expression.AssemblyInfo.cs
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/parenthesized_expression.csproj.CoreCompileInputs.cache
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/parenthesized_expression.sourcelink.json
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/parenthesized_expression.dll
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/refint/parenthesized_expression.dll
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/parenthesized_expression.pdb
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/parenthesized_expression.genruntimeconfig.cache
+/home/operatorio/Документы/meCodes/lesson_projects/parenthesized_expression/obj/Debug/net9.0/ref/parenthesized_expression.dll
