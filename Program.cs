@@ -7,11 +7,24 @@ class Program
         int nestingDepth = 0;
         int maxDepth = 0;
 
+        char openBracket = '(';
+        char closeBracket = ')';
+
+
         string answerUser = Console.ReadLine();
 
         for (int i = 0; i < answerUser.Length; i++)
         {
-            if (answerUser[i] == '(')
+            if (answerUser[i] != openBracket && answerUser[i] != closeBracket)
+            {
+                Console.WriteLine($"{answerUser} - некорректная строка");
+                return;
+            }
+        }
+
+        for (int i = 0; i < answerUser.Length; i++)
+        {
+            if (answerUser[i] == openBracket)
                 nestingDepth++;
             else
                 nestingDepth--;
@@ -23,7 +36,9 @@ class Program
                 break;
         }
 
-        Console.WriteLine(nestingDepth == 0 ? $"{answerUser} - строка корректная и максимум глубины равняется {maxDepth}"
-                                            : $"{answerUser} - некорректная строка");
+        if (nestingDepth == 0)
+            Console.WriteLine($"{answerUser} - строка корректная и максимум глубины равняется {maxDepth}");
+        else
+            Console.WriteLine($"{answerUser} - некорректная строка");
     }
 }
